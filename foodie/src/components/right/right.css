@@ -1,0 +1,39 @@
+.right{
+    width: 30%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
+}
+
+.logo{
+    width: 170px;
+    border: 5px color red;
+    
+      }
+
+
+.form{
+    width: 300px;
+   
+}
+
+.si{
+    margin-top: 20px;
+    color: rgb(10, 4, 0);
+}
+
+.fp{
+    margin-top: 20px;
+}
+
+a{
+    margin-left: 10px;
+}
+.li{
+    color: black;
+}
+.right{
+    border: 3px solid black;
+}

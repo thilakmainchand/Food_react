@@ -1,0 +1,31 @@
+.child{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header{
+    background: black;
+    color: rgb(248, 244, 244);
+    
+
+
+}
+
+.header-content child{
+    height:75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo{
+    height:50px;
+
+}
+.user-name{
+    text-align: end;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+    
+}
